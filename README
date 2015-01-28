@@ -1,0 +1,3 @@
+The "Insect Spray" app is created for people to compare any two different kind of insect spray available from the "InsectSprays" dataset from R. In this app, you can choose any two sprays, ranging from "A"-"E". Once you are done making the choice, hit the "SUBMIT" button. Then you will see a boxplot showing the count against selected sprays on the right. You can also see the calculated mean count for the selected sprays.
+
+The application is available at: https://avonlong.shinyapps.io/DDP_Project1_Shiny_Dec2014/
